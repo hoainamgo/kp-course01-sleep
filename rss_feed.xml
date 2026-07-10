@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Know Parenting — The Sleep Science</title>
+    <link>https://knowparenting.blogspot.com</link>
+    <language>en-us</language>
+    <description>The brain that grows while they sleep. Sleep, memory, and the quiet miracles of childhood rest.</description>
+    <itunes:image href="https://raw.githubusercontent.com/hoainamgo/kp-course01-sleep/main/assets/cover.jpg"/>
+    <itunes:author>Ruby An</itunes:author>
+    <itunes:owner><itunes:name>Ruby An</itunes:name><itunes:email>lifelove.positive@gmail.com</itunes:email></itunes:owner>
+    <itunes:category text="Kids &amp; Family"><itunes:category text="Parenting"/></itunes:category>
+    <item>
+      <title>Episode 001</title>
+      <description>EP001 — The Brain That Grows in Sleep</description>
+      <enclosure url="https://raw.githubusercontent.com/hoainamgo/kp-course01-sleep/main/audio/EP001_sleep.mp3" type="audio/mpeg" length="9330765"/>
+      <guid>kp-kp-course01-sleep-ep001</guid>
+      <pubDate>Fri, 10 Jul 2026 10:12:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Episode 002</title>
+      <description>EP002 — The Sleep Pressure</description>
+      <enclosure url="https://raw.githubusercontent.com/hoainamgo/kp-course01-sleep/main/audio/EP002_sleep.mp3" type="audio/mpeg" length="13165485"/>
+      <guid>kp-kp-course01-sleep-ep002</guid>
+      <pubDate>Fri, 10 Jul 2026 10:12:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Episode 003</title>
+      <description>EP003 — The Dream Architect</description>
+      <enclosure url="https://raw.githubusercontent.com/hoainamgo/kp-course01-sleep/main/audio/EP003_sleep.mp3" type="audio/mpeg" length="13601805"/>
+      <guid>kp-kp-course01-sleep-ep003</guid>
+      <pubDate>Fri, 10 Jul 2026 10:13:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Episode 004</title>
+      <description>EP004 — The Nightly Repair</description>
+      <enclosure url="https://raw.githubusercontent.com/hoainamgo/kp-course01-sleep/main/audio/EP004_sleep.mp3" type="audio/mpeg" length="13601805"/>
+      <guid>kp-kp-course01-sleep-ep004</guid>
+      <pubDate>Fri, 10 Jul 2026 10:13:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Episode 005</title>
+      <description>EP005 — The Rhythm of Rest</description>
+      <enclosure url="https://raw.githubusercontent.com/hoainamgo/kp-course01-sleep/main/audio/EP005_sleep.mp3" type="audio/mpeg" length="13601805"/>
+      <guid>kp-kp-course01-sleep-ep005</guid>
+      <pubDate>Fri, 10 Jul 2026 10:13:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Episode 006</title>
+      <description>EP006 — The Quiet Miracle</description>
+      <enclosure url="https://raw.githubusercontent.com/hoainamgo/kp-course01-sleep/main/audio/EP006_sleep.mp3" type="audio/mpeg" length="12726765"/>
+      <guid>kp-kp-course01-sleep-ep006</guid>
+      <pubDate>Fri, 10 Jul 2026 10:13:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Episode 007</title>
+      <description>EP007 — The Memory While You Sleep</description>
+      <enclosure url="https://raw.githubusercontent.com/hoainamgo/kp-course01-sleep/main/audio/EP007_sleep.mp3" type="audio/mpeg" length="11234445"/>
+      <guid>kp-kp-course01-sleep-ep007</guid>
+      <pubDate>Fri, 10 Jul 2026 10:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Episode 008</title>
+      <description>EP008 — The Anchor of Routine</description>
+      <enclosure url="https://raw.githubusercontent.com/hoainamgo/kp-course01-sleep/main/audio/EP008_sleep.mp3" type="audio/mpeg" length="13210125"/>
+      <guid>kp-kp-course01-sleep-ep008</guid>
+      <pubDate>Fri, 10 Jul 2026 10:13:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Episode 009</title>
+      <description>EP009 — The Wind-Down Signal</description>
+      <enclosure url="https://raw.githubusercontent.com/hoainamgo/kp-course01-sleep/main/audio/EP009_sleep.mp3" type="audio/mpeg" length="12061485"/>
+      <guid>kp-kp-course01-sleep-ep009</guid>
+      <pubDate>Fri, 10 Jul 2026 10:14:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Episode 010</title>
+      <description>EP010 — The Sleep You'll Keep</description>
+      <enclosure url="https://raw.githubusercontent.com/hoainamgo/kp-course01-sleep/main/audio/EP010_sleep.mp3" type="audio/mpeg" length="13601805"/>
+      <guid>kp-kp-course01-sleep-ep010</guid>
+      <pubDate>Fri, 10 Jul 2026 10:14:26 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
